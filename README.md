@@ -1,6 +1,8 @@
 # S&P 500 Sector Weights EDA  
 Exploratory Data Analysis using Python and Pandas
 
+Presentation Link: https://drive.google.com/file/d/1k7a6D8SbG4QEKWcz-YSWVaZhy1eIyNot/view?usp=drive_link
+
 Google Colab link: https://drive.google.com/file/d/172crY77TplrNl26SdIuJCvlnDZsHTXzv/view?usp=sharing
 
 ---
